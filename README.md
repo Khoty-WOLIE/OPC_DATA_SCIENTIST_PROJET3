@@ -4,6 +4,10 @@ Préparez des données pour un organisme de santé publique
 
 # Préparation et Analyse des Données Open Food Facts - Projet Santé Publique France
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DS_projet3.PNG)
+
 ## Contexte
 
 Je suis missionné pour travailler sur un projet pour **Santé publique France** visant à améliorer la qualité des données de la base **Open Food Facts**, une base de données open source répertoriant la qualité nutritionnelle des produits alimentaires. Cette base est largement utilisée par des particuliers et des organisations pour évaluer les qualités nutritionnelles des produits.
