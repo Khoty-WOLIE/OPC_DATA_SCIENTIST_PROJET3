@@ -4,9 +4,7 @@ Préparez des données pour un organisme de santé publique
 
 # Préparation et Analyse des Données Open Food Facts - Projet Santé Publique France
 
-## Aperçu de l'entreprise
 
-![Aperçu du site web](images/DS_projet3.PNG)
 
 ## Contexte
 
